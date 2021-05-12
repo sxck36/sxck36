@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sxck1337
-- 👀 I’m interested in: Gamehacking, Webdevelopment
+- 👀 I’m interested in: Gamehacking & Webdevelopment
 - 🌱 I’m currently learning: c++
 - 📫 How to reach me: sxck#1337
