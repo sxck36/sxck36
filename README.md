@@ -4,5 +4,8 @@
 - 💥 I'm working with: JS, HTML, CSS, PHP, C#
 - 📫 How to reach me: sxck#1337
 
-[![Sxck's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxck1337)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Sxck's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxck1337&show_icons=true&theme=radical)
 
