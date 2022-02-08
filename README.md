@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sxck1337
 - 👀 I’m interested in: Gamehacking & Webdevelopment
+- 🚀 Fluent in: ```.js```, ```.html```, ```.css```, ```.php```
 - 🌱 I’m currently working at: crmnl
 - 📫 How to reach me: sxck#1337
 
