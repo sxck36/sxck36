@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sxck1337
-- 👀 I’m interested in: Gamehacking & Webdevelopment
-- 🚀 Working with: ```.js```, ```.html```, ```.css```, ```.cpp```
-- 🌱 I’m currently working at: casidy.cc
-- 📫 How to reach me: sxck#5683
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=fe448f&center=true&vCenter=true&width=435&lines=sxck1337;casidy.cc;)](https://git.io/typing-svg)
 
  ---
 
