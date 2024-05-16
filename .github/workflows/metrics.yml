@@ -33,23 +33,7 @@ jobs:
           plugin_gists: yes
           plugin_lines: yes
           plugin_lines_history_limit: 3
-          plugin_lines_repositories_limit: 30
-          plugin_lines_sections: base, header, activity, community, repositories, metadata
-
-      - name: organization
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics-casidy.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: casidy-cc
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
-          plugin_traffic: yes
-          plugin_gists: false
-          plugin_lines: yes
-          plugin_lines_history_limit: 3
-          plugin_lines_repositories_limit: 30
+          plugin_lines_repositories_limit: 6
           plugin_lines_sections: base, header, activity, community, repositories, metadata
 
       - name: LeetCode
@@ -59,8 +43,9 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
+          plugin_leetcode_user: sxck36
           plugin_leetcode_sections: solved, skills, recent
-          
+
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
