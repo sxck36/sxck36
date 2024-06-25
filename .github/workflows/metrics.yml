@@ -31,8 +31,6 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_traffic: yes
           plugin_gists: yes
-          plugin_lines: yes
-          plugin_lines_history_limit: 0
           plugin_lines_repositories_limit: 6
           plugin_lines_sections: base, header, activity, community, repositories, metadata
           
