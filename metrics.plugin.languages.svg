@@ -26,7 +26,7 @@
                     <rect mask="url(#languages-bar)" x="444.3601561695561" y="0" width="5.888780181941217" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="450.2489363514973" y="0" width="3.364701081297847" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="453.6136374327952" y="0" width="2.911457533177642" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.5250949659728" y="0" width="1.4905907447694287" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.5250949659728" y="0" width="1.4905907447694287" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="458.0156857107422" y="0" width="1.1686423624395637" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="459.1843280731818" y="0" width="0.8156719268182197" height="8" fill="#427819"/>
                 </svg>
@@ -109,7 +109,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
